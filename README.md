@@ -11,8 +11,10 @@
 	5.Harvesting from Field, Tree and Vine(收获)
 	6.Real-Time Monitoring and Analysis(实时分析监控)
 	7.The Connected Farm: Sensors and the IoT(互联农场：传感器、物联网)
+	
 	Smart farms will have sensors embedded throughout every stage of the farming process, and on every piece of equipment.  Sensors set up across the fields will collect data on light levels, soil conditions, irrigation, air quality and weather. That data will go back to the farmer, or directly to AgBots in the field.  Teams of robots will traverse the fields and work autonomously to respond to the needs of crops, and perform weeding, watering, pruning and harvesting functions guided by their own collection of sensors, navigation and crop data.  Drones will tour the sky, getting the bird’s eye view of plant health and soil conditions, or generating maps that will guide the robots, and help the human farmers to plan for the farm’s next steps.  All of this will help create higher crop production, and an increased availability and quality of food.
 	智慧农场将在耕作过程的每一个阶段和每一件设备上安装传感器。在农田中设置的传感器将收集光照水平、土壤状况、灌溉、空气质量和天气等方面的数据。这些数据将返回给农民，或者直接返回到田间的机器人。机器人团队将穿越田地，自主工作，以响应农作物的需求，并在自己的收集传感器、导航和作物数据的指导下执行除草、浇水、修剪和收割等功能。无人机将巡逻，鸟瞰植物的健康状况和土壤状况，或者生成地图来指导机器人，帮助人类农民规划农场的下一步行动。所有这些都将有助于创造更高的作物产量，增加粮食供应和质量。
+	
 二、Climate-smart agriculture(CSA)	气候智能型农业
 	Climate-Smart Agriculture (CSA) is an approach to help the people who manage agricultural systems respond effectively to climate change.  The CSA approach pursues the triple objectives of sustainably increasing productivity and incomes, adapting to climate change and reducing greenhouse gas emissions where possible.
 	气候智能型农业（CSA）是一种帮助农业系统管理者有效应对气候变化的智慧农业。CSA追求三个目标：可持续地提高生产力和收入、适应气候变化、尽可能减少温室气体排放。
@@ -30,10 +32,10 @@
 
  			 
 			自主灌溉						            面向高科技农业的农村物联网网络
-		WaterBit支持LoRa的自主灌溉系统			   			国家窄带网络通信LoRaWAN网络覆
+		WaterBit支持LoRa的自主灌溉系统						国家窄带网络通信LoRaWAN网络覆
 		可帮助种植者最大程度地提高土壤类					盖了新南威尔士州农村地区一百万英
 		型的产量，同时优化劳动力和其他投					亩的农田，并通过低成本无线传感器
-		入资源的使用。 							网络为农民提供了有关土壤湿度、降
+		入资源的使用。								网络为农民提供了有关土壤湿度、降
 											雨量，作物，水位和牲畜的实时数
 											            据。
   
